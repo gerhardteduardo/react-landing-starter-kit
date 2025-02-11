@@ -41,7 +41,7 @@ This project is ideal for developers looking to create modern Landing Pages with
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/react-landing-starter-kit.git
+git clone https://github.com/gerhardteduardo/react-landing-starter-kit.git
 cd react-landing-starter-kit
 
 # Install dependencies
